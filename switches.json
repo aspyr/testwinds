@@ -1,0 +1,82 @@
+[
+  {
+    "Location": "Location 1",
+    "Tags": "Tag1 Tag2",
+    "IPAddress": "192.168.1.1",
+    "Name": "Switch 1",
+    "UniqueID": 1,
+    "Description": "Description of Switch 1"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 2,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 4,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 5,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 6,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 7,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 8,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 9,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "Location": "Location 2",
+    "Tags": "Tag3 Tag4",
+    "IPAddress": "192.168.1.2",
+    "Name": "Switch 2",
+    "UniqueID": 10,
+    "Description": "Description of Switch 2"
+  },
+  {
+    "IPAddress": "",
+    "Description": "",
+    "Name": "fdsaf",
+    "Tags": "",
+    "UniqueID": "e8c76706-f882-4e33-ba36-218a36491994",
+    "Location": ""
+  }
+]
